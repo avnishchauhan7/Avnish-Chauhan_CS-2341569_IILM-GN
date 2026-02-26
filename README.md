@@ -25,10 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0092-reverse-linked-list-ii) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
