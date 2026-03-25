@@ -1,0 +1,9 @@
+class Solution {
+    public int rob(int[] nums) {
+        return check(nums,0);
+    }
+    int check(int[]nums,int i){
+        if(i>=nums.length) return 0;
+        return Math.max(nums[i]+check(nums,i+2),check(nums,i+1));
+    }
+}
