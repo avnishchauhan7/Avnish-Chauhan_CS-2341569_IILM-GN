@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0494-target-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0704-binary-search) |
 ## Hash Table
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0018-4sum) |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -126,4 +130,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0090-subsets-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
