@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Hash Table
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
+| [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
 |  |
 | ------- |
