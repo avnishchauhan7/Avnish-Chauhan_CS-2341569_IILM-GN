@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0078-subsets) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
