@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0112-path-sum) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
