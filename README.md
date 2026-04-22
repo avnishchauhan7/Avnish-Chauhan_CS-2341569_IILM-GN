@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
 |  |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
@@ -306,4 +308,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
