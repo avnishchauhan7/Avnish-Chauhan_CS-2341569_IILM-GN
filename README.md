@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
 |  |
 | ------- |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
 |  |
 | ------- |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0701-insert-into-a-binary-search-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String Matching
 |  |
 | ------- |
