@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [2235-add-two-integers](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
