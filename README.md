@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0078-subsets) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0435-non-overlapping-intervals) |
@@ -360,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
