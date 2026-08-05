@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -355,4 +356,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
