@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
