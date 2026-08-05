@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0134-gas-station) |
+| [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
