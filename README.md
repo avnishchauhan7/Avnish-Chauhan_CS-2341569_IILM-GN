@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
+| [1603-design-parking-system](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1603-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0295-find-median-from-data-stream) |
+| [1603-design-parking-system](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1603-design-parking-system](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
