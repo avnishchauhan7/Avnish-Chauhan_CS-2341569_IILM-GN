@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0054-spiral-matrix) |
 | [1603-design-parking-system](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
