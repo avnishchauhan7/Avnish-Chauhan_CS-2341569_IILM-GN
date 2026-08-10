@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0090-subsets-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0295-find-median-from-data-stream) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0295-find-median-from-data-stream](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0435-non-overlapping-intervals) |
@@ -388,8 +391,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0022-generate-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
