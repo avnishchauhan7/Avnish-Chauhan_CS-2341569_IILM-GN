@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2235-add-two-integers](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0079-word-search) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
@@ -403,4 +405,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
