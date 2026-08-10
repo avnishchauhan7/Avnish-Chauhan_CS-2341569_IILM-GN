@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0222-count-complete-tree-nodes) |
+| [0868-binary-gap](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0868-binary-gap) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
