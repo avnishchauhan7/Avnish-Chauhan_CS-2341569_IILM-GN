@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
