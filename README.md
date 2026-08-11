@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0494-target-sum) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
+| [0643-maximum-average-subarray-i](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -418,4 +419,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
