@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1528-shuffle-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1768-merge-strings-alternately) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Stack
