@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1528-shuffle-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1528-shuffle-string) |
 | [1768-merge-strings-alternately](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1768-merge-strings-alternately) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
+| [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
 | [1768-merge-strings-alternately](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
 | [1603-design-parking-system](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1603-design-parking-system) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
