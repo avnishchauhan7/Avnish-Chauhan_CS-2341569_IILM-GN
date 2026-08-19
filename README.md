@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0997-find-the-town-judge) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
+| [0997-find-the-town-judge](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0997-find-the-town-judge) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Math
 |  |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
+| [0997-find-the-town-judge](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0997-find-the-town-judge) |
 ## Simulation
 |  |
 | ------- |
