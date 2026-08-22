@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0295-find-median-from-data-stream) |
