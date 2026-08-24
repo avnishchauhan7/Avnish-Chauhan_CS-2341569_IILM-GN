@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
+| [0986-interval-list-intersections](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0997-find-the-town-judge) |
 | [1004-max-consecutive-ones-iii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
+| [0986-interval-list-intersections](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -488,4 +490,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0912-sort-an-array) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
