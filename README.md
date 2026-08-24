@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 ## Quicksort
 |  |
 | ------- |
