@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
+| [0875-koko-eating-bananas](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0986-interval-list-intersections) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0222-count-complete-tree-nodes) |
 | [0704-binary-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
 ## Divide and Conquer
 |  |
