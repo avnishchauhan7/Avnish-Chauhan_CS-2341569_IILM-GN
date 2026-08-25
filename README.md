@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0048-rotate-image) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0145-binary-tree-postorder-traversal) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Two Pointers
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
