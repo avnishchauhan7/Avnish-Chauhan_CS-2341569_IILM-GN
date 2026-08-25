@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
+| [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0344-reverse-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
+| [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0392-is-subsequence) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0070-climbing-stairs) |
+| [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 ## Breadth-First Search
 |  |
@@ -470,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 ## Bubble Sort
 |  |
 | ------- |
