@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0134-gas-station) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
