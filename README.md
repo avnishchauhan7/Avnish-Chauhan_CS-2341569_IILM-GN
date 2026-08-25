@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
 | [0997-find-the-town-judge](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0997-find-the-town-judge) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0402-remove-k-digits) |
+| [0763-partition-labels](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
 | [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0621-task-scheduler](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 ## Monotonic Stack
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0844-backspace-string-compare) |
 | [0986-interval-list-intersections](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1768-merge-strings-alternately) |
