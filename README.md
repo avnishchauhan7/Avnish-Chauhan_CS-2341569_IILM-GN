@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0912-sort-an-array) |
+| [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 ## Linked List
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -536,4 +539,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
