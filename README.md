@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0221-maximal-square) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
 ## Recursion
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0241-different-ways-to-add-parentheses) |
 | [0279-perfect-squares](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0322-coin-change) |
