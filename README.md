@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0994-rotting-oranges) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Backtracking
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0494-target-sum) |
+| [0797-all-paths-from-source-to-target](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0572-subtree-of-another-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0662-maximum-width-of-binary-tree) |
+| [0797-all-paths-from-source-to-target](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0547-number-of-provinces) |
+| [0797-all-paths-from-source-to-target](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0997-find-the-town-judge](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1791-find-center-of-star-graph) |
 ## Simulation
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0797-all-paths-from-source-to-target) |
 ## Radix Sort
 |  |
 | ------- |
