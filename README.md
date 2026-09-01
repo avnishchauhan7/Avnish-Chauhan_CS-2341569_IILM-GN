@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1528-shuffle-string) |
+| [1991-find-the-middle-index-in-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
+| [1991-find-the-middle-index-in-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1991-find-the-middle-index-in-array) |
 ## Quicksort
 |  |
 | ------- |
