@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1528-shuffle-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1528-shuffle-string) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1991-find-the-middle-index-in-array](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0767-reorganize-string) |
 | [0860-lemonade-change](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0860-lemonade-change) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1899-merge-triplets-to-form-target-triplet) |
 ## Monotonic Stack
 |  |
 | ------- |
