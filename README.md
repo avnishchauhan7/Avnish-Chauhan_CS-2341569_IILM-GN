@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 | [2235-add-two-integers](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/2469-convert-the-temperature) |
 | [3783-mirror-distance-of-an-integer](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/3783-mirror-distance-of-an-integer) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
 | [1143-longest-common-subsequence](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1143-longest-common-subsequence) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Memoization
 |  |
 | ------- |
@@ -563,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/0918-maximum-sum-circular-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/avnishchauhan7/LeetCode_Journey/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
